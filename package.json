@@ -1,0 +1,29 @@
+{
+  "name": "@akhiroai/mistralai",
+  "version": "1.0.0",
+  "description": "A lightweight wrapper for Mistral's AI chat completions API with support for multiple models.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akhirodev/mistralai.git"
+  },
+  "keywords": [
+    "AI",
+    "Mistral",
+    "chat",
+    "API",
+    "wrapper",
+    "models",
+    "Pixtral",
+    "Codestral",
+    "Mathstral"
+  ],
+  "author": "AkhiroAIs",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.0.0"
+  }
+}
